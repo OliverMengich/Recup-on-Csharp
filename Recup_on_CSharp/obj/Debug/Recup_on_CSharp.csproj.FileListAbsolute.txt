@@ -1,0 +1,6 @@
+C:\Users\olive\source\repos\Recup_on_CSharp\Recup_on_CSharp\bin\Debug\Recup_on_CSharp.exe.config
+C:\Users\olive\source\repos\Recup_on_CSharp\Recup_on_CSharp\bin\Debug\Recup_on_CSharp.exe
+C:\Users\olive\source\repos\Recup_on_CSharp\Recup_on_CSharp\bin\Debug\Recup_on_CSharp.pdb
+C:\Users\olive\source\repos\Recup_on_CSharp\Recup_on_CSharp\obj\Debug\Recup_on_CSharp.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\Recup_on_CSharp\Recup_on_CSharp\obj\Debug\Recup_on_CSharp.exe
+C:\Users\olive\source\repos\Recup_on_CSharp\Recup_on_CSharp\obj\Debug\Recup_on_CSharp.pdb
